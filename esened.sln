@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esened", "esened\esened.csproj", "{28A3C713-E064-4398-B89F-83B2D5AD1B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A3C713-E064-4398-B89F-83B2D5AD1B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A3C713-E064-4398-B89F-83B2D5AD1B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A3C713-E064-4398-B89F-83B2D5AD1B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A3C713-E064-4398-B89F-83B2D5AD1B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B9F086-F8D4-4273-A81F-725485ED43EB}
+	EndGlobalSection
+EndGlobal
